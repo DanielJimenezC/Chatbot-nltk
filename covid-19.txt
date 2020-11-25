@@ -1,6 +1,6 @@
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 This epidemiological outbreak came from the city of Wuhan, China in 2019 when a large number of people with pneumonia of unknown cause were reported.
-Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness because they are the most expose.
+Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness because they are the most expose people.
 
 To prevent infection and to slow transmission of COVID-19, do the following:
 -Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub
@@ -33,5 +33,5 @@ The emergency numbers are:
 -SAMU 106
 Remember that there is number 107 specifically for issues related to the coronavirus.
 
-Although there are ongoing clinical trials around the world, there is currently no evidence from controlled clinical trials to recommend a specific treatment as a cure for SARS-CoV-2.
+Although there are ongoing clinical trials around the world, there is currently no evidence from controlled clinical trials to recommend a specific treatment as a cure for "covid-19".
 The vaccine is currently in the clinical trials phase, some of them in the final phase for later distribution with no date determined at this time.

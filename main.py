@@ -99,12 +99,24 @@ def response(response_toUser):
     flat.sort()
     req_tfidf = flat[-2]
 
+    count = 0
+    for item in flat:
+        if item > 0:
+            count = count + 1
+
     if req_tfidf == 0:
         robot_response = robot_response + "I am sorry, I don't understand you *sad face*"
         return robot_response
-    else:
+    elif req_tfidf > 0.27:
         robot_response = robot_response + sent_tokens[idx]
         return robot_response
+    else:
+        if count >= 5:
+            robot_response = robot_response + sent_tokens[idx]
+            return robot_response
+        else:
+            robot_response = robot_response + "I am sorry, I don't have information about that."
+            return robot_response
 
 
 T.insert(tk.END, "Hello, my name is Clippo.\nI will answer all your questions about Covid-19.")
